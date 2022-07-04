@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "BouncingBall",
+"productVersion": "0.1",
+"dataUrl": "BouncingBallv1.2.data.unityweb",
+"wasmCodeUrl": "BouncingBallv1.2.wasm.code.unityweb",
+"wasmFrameworkUrl": "BouncingBallv1.2.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.39f1"
+}
